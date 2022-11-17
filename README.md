@@ -6,3 +6,7 @@ This is done by pressing plus or minus to tell the machine which way to look.
 The application on the final screen indicates how many rounds it took the app to guess the answer and, the number we passed on at the beginning. 
 When you try to fool the application by pressing plus, even though it should be looking in the down value that is minus - you will get an alert not to cheat
 
+
+
+https://user-images.githubusercontent.com/98612505/202459434-958f417f-5c98-4098-bda7-d153659c0d7d.mp4
+
